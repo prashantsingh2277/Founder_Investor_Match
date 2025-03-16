@@ -15,11 +15,6 @@ Using this data, the model predicts a **match score** indicating how well an inv
 
 ---
 
-## **Files & Directory Structure**  
-
-
----
-
 ## **How It Works**  
 
 1. **Data Preparation**  
