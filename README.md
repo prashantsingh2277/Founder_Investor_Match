@@ -30,3 +30,18 @@ Using this data, the model predicts a **match score** indicating how well an inv
    - It returns a ranked list of investors along with a compatibility score.
 
 ---
+
+# 🚀 LLM-Powered Pitch Analysis Model
+
+## 📌 Overview
+This project implements an **AI-powered pitch deck evaluation model** using **Google Gemini API**. It **analyzes startup pitch decks** and provides:
+- **A pitch score (0-100)**
+- **Strengths & weaknesses of the pitch**
+- **Suggested improvements**
+
+## 📂 Features
+✅ Extracts text from **PDF pitch decks**  
+✅ Uses **LLM (Gemini API)** for **evaluation**  
+✅ Assigns a **pitch score (0-100)**  
+✅ Provides **strengths, weaknesses & improvement suggestions**  
+✅ Saves results in **JSON & PDF report format**  
